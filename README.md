@@ -5,6 +5,9 @@ This is a repo for WiDS Datathon 2020 challenge which aims to predict hospital d
 
 
 training_v2.csv               The original training dataset provided.
+
 unlabeled.csv                 The original test dataset provided.
+
 preview.ipynb                 Notebook to pre-process training dataset.
+
 filled_training_data.csv      Training dataset after filling NaN.
